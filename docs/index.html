@@ -32,8 +32,8 @@
       loadNavbar: true,
       mergeNavbar: true,
       maxLevel: 4,
-      subMaxLevel: 3,
-      name: 'Юлия Ставская',
+      subMaxLevel: 1,
+      name: 'Жажда',
       search: {
         noData: {
           '/': 'Нет совпадений!'
@@ -43,10 +43,16 @@
           '/': 'Поиск'
         }
       },
-      formatUpdated: '{MM}/{DD} {HH}:{mm}'
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
+      pagination: {
+        previousText: 'назад',
+        nextText: 'вперед',
+        crossChapter: true
+      }
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>
