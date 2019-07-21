@@ -1,4 +1,6 @@
-![logo](_media/icon.svg)
+<!--![logo](_media/icon.svg)-->
+
+![logo](_media/dan250.png)
 
 # Жажда <small>1.0</small>
 
