@@ -25,7 +25,7 @@
 <body>
 <section>
 <p><strong>Юлия Ставская</strong></p>
-<empty-line/>
+<p><strong>«Жажда»</strong></p>
 <empty-line/>
 <p>«Не страшитесь совершенства.</p>
 <p>Оно вам нисколько не грозит»</p>
@@ -36,7 +36,6 @@
 <p>и на этом длинном пути моя жажда </p>
 <p>ничуть не уменьшилась»</p>
 <p><emphasis>Герман Гессе «Сиддхартха»</emphasis></p>
-<empty-line/>
 </section>
 <section>
 <title>
@@ -103,7 +102,7 @@
 <p>уже томилось, брошенное вслед</p>
 <p>стоящему поодаль Крысолову.</p>
 <empty-line/>
-<p>СПб  <emphasis> 88</emphasis></p>
+<p>СПб  <emphasis>-</emphasis>  <emphasis>88</emphasis></p>
 </section>
 <section>
 <title>
@@ -219,7 +218,7 @@
 <p>желание омута — омут вдвойне:</p>
 <p>с омутом омута наедине...</p>
 <empty-line/>
-<p>                                                 <emphasis> 89</emphasis></p>
+<p>                                                 <emphasis>-</emphasis>  <emphasis>89</emphasis></p>
 <empty-line/>
 </section>
 <section>
@@ -282,9 +281,6 @@
 <p><strong>Из Цикла «Случайная земля»</strong></p>
 </title>
 <section>
-<empty-line/>
-</section>
-<section>
 <title>
 <p><strong>Она была цветком</strong></p>
 </title>
@@ -326,7 +322,7 @@
 <p>Я знала: то случайные обломки;</p>
 <p>Я знала: то случайная земля...</p>
 <empty-line/>
-<p><emphasis>СПб  85<strong>.</strong></emphasis></p>
+<p><emphasis>СПб -</emphasis>  <emphasis>85<strong>.</strong></emphasis></p>
 </section>
 <section>
 <title>
@@ -444,7 +440,7 @@
 <p>одинок и заброшен — </p>
 <p>не с того ль, что других</p>
 <p>нам вмещать не дано?</p>
-<p>                                                                <emphasis> 85.</emphasis></p>
+<p>                                                                <emphasis>-</emphasis>  <emphasis>85.</emphasis></p>
 <empty-line/>
 <empty-line/>
 </section>
@@ -496,7 +492,7 @@
 <p>тебе не дано говорить простыми</p>
 <p>словами, как не дано любить.</p>
 <empty-line/>
-<p><emphasis>88</emphasis></p>
+<p><emphasis>- 88</emphasis></p>
 <empty-line/>
 </section>
 <section>
@@ -579,7 +575,7 @@
 <p>поэты-не-бесполезны,</p>
 <p>Да вечно алеет куст</p>
 <p>рябины — последней Песней.</p>
-<p>                                                                                                          82</p>
+<p><emphasis>- 82</emphasis></p>
 <empty-line/>
 </section>
 <section>
@@ -603,7 +599,7 @@
 <empty-line/>
 <p>все, что дано мне - спаси нас Бог</p>
 <p>на перекрестках слепых дорог...</p>
-<p><emphasis> 87.</emphasis></p>
+<p><emphasis>- - 87</emphasis></p>
 <empty-line/>
 <empty-line/>
 </section>
@@ -656,18 +652,16 @@
 <p>Безвременье и безгеройство,</p>
 <p>слова “а помните?”  иль стих...</p>
 <empty-line/>
-<p><emphasis> 89</emphasis></p>
-<empty-line/>
+<p><emphasis>-</emphasis>  <emphasis>89</emphasis></p>
 <empty-line/>
 </section>
 </section>
 <section>
 <title>
-<p> <strong>Из Цикла «Crazy»</strong></p>
+<p><strong>Из Цикла «Crazy»</strong></p>
 </title>
 <section>
-<p><emphasis>«MV wide love is crazy»</emphasis> </p>
-<p><emphasis>Jim Morrison</emphasis></p>
+<p><emphasis>«My wide love is crazy»  Jim Morrison</emphasis></p>
 <empty-line/>
 </section>
 <section>
@@ -771,7 +765,6 @@
 <p>слова мои не отражают мыслей</p>
 <p>и существуют по правилам слов…</p>
 <p><emphasis>Тарту - СПб - 87</emphasis>    </p>
-<empty-line/>
 </section>
 <section>
 <title>
@@ -867,7 +860,7 @@
 <p>что мы ей были послушны,</p>
 <p>мы, </p>
 <p>          Безъядые Кобры.</p>
-<p><emphasis>Тарту, СПб 87</emphasis></p>
+<p><emphasis>Тарту, СПб-</emphasis>  <emphasis>87</emphasis></p>
 </section>
 <section>
 <title>
@@ -954,7 +947,7 @@
 <p>когда на друзей валится,  валится</p>
 <p>манна небесная</p>
 <p>                                                  бессловесная.</p>
-<p><emphasis>85</emphasis></p>
+<p><emphasis>- 85</emphasis></p>
 <empty-line/>
 </section>
 <section>
@@ -1045,7 +1038,7 @@
 <p>Я еще хочу.</p>
 <p>Но уже не очень.</p>
 <empty-line/>
-<p><emphasis>СПб —  87</emphasis></p>
+<p><emphasis>СПб — -</emphasis>  <emphasis>87</emphasis></p>
 <empty-line/>
 </section>
 <section>
@@ -1115,7 +1108,7 @@
 <p>возродится ли пепел моих сигарет,</p>
 <p>сумею ли я отыграться?</p>
 <empty-line/>
-<p>  СПб 88</p>
+<p>  СПб - 88</p>
 <empty-line/>
 </section>
 <section>
@@ -1167,7 +1160,7 @@
 <p>Так если судьбой обращен ты в мяч, — </p>
 <p>что за дело тебе, судьба — не палач.</p>
 <empty-line/>
-<p><emphasis>Тарту  87</emphasis></p>
+<p><emphasis>Тарту -</emphasis>  <emphasis>87</emphasis></p>
 <empty-line/>
 </section>
 <section>
@@ -1208,7 +1201,7 @@
 <p>увы, нельзя, но, знаешь, нелегко</p>
 <p>и даже <emphasis>невозможно</emphasis> не любить.</p>
 <empty-line/>
-<p>  87</p>
+<p>  - 87</p>
 </section>
 <section>
 <title>
@@ -1253,7 +1246,7 @@
 <p>жизнь — это не когда идут</p>
 <p>от прошлого,  — ее начало Тут.</p>
 <empty-line/>
-<p><emphasis>86</emphasis></p>
+<p><emphasis>- 86</emphasis></p>
 <empty-line/>
 </section>
 <section>
@@ -1308,7 +1301,7 @@
 <p>чтоб мысль и боль не мешали мне</p>
 <p>для жизни, но </p>
 <p>                                          для смерти - вдвойне.</p>
-<p> <emphasis>87</emphasis></p>
+<p> <emphasis>- 87</emphasis></p>
 <empty-line/>
 </section>
 <section>
@@ -1362,11 +1355,10 @@
 <p>                                                                                    куда?</p>
 <p>я выдержу взгляд и отвечу: В завтра!</p>
 <p>Даже от имени тех, у кого его нет.</p>
-<p><strong></strong>87</p>
+<p><strong>-</strong> 87</p>
 </section>
 <section>
 <title>
-<p></p>
 <p><strong>Исповедь  куртизанки, или Синяя Борода</strong></p>
 </title>
 <p><emphasis>«А если душу изнасиловали?…»</emphasis></p>
@@ -1597,9 +1589,11 @@
 <p>	Завтра будет смотреть обязательно кто-то</p>
 <p>Поползу ли я вновь, чтобы жить, на охоту.</p>
 <empty-line/>
-<p>                                                                                                                                            </p>
-<empty-line/>
+</section>
+<section>
+<title>
 <p><strong>Одиночество над песком</strong></p>
+</title>
 <empty-line/>
 <p>1.</p>
 <p>Вторник, полтретьего, заперты двери.</p>
@@ -1609,7 +1603,7 @@
 <p>В точке их пересечения – </p>
 <p>Легкий укол отречения.</p>
 <p>Завтра выводим методом </p>
-<p>Индукции, верой в VestodaV.</p>
+<p>Индукции, верой в yestoday.</p>
 <p>Очень хочется </p>
 <p>Одиночества.</p>
 <empty-line/>
@@ -1753,7 +1747,7 @@
 <p>где тихо прыгает мечтанье</p>
 <p>по каплям августа — </p>
 <p>			в ручей...</p>
-<p><emphasis> 85</emphasis></p>
+<p><emphasis>-</emphasis>  <emphasis>85</emphasis></p>
 </section>
 <section>
 <title>
@@ -1804,7 +1798,7 @@
 <p>из тайны земного</p>
 <p>		всю жизнь без ответа...</p>
 <empty-line/>
-<p>                                                                         <emphasis> 87</emphasis></p>
+<p>                                                                         <emphasis>-</emphasis>  <emphasis>87</emphasis></p>
 </section>
 <section>
 <title>
@@ -1879,7 +1873,7 @@
 <p>два яблока с мороза, иней окон...</p>
 <p>весь в снежной пыли входит человек...</p>
 <empty-line/>
-<p>                                                       <emphasis> 88</emphasis></p>
+<p>                                                       <emphasis>-</emphasis>  <emphasis>88</emphasis></p>
 <empty-line/>
 <p>2.</p>
 <empty-line/>
@@ -2009,7 +2003,7 @@
 <p>		Давай поиграем!</p>
 <p>Я буду адом...</p>
 <p>		Ты будешь раем...  </p>
-<p><emphasis>СПб  85</emphasis></p>
+<p><emphasis>СПб -</emphasis>  <emphasis>85</emphasis></p>
 <empty-line/>
 </section>
 <section>
@@ -2065,7 +2059,7 @@
 <p>душа остается </p>
 <p>собой.</p>
 <empty-line/>
-<p>                                      <emphasis> 88</emphasis></p>
+<p>                                      <emphasis>-</emphasis>  <emphasis>88</emphasis></p>
 </section>
 <section>
 <title>
@@ -2101,18 +2095,15 @@
 <p>ибо ни  Завтра, ни Вчера</p>
 <p>ты — невозможен,</p>
 <p>ибо  Сегодня ты — моя жизнь.</p>
-<p> <emphasis>88</emphasis></p>
+<p> <emphasis>- 88</emphasis></p>
 <empty-line/>
 <empty-line/>
 </section>
 </section>
 <section>
 <title>
-<p><strong>Из Цикла «СТРОФЫ»</strong></p>
+<p><strong>Из Цикла «Строфы»</strong></p>
 </title>
-<section>
-<empty-line/>
-</section>
 <section>
 <title>
 <p><strong>Признание</strong></p>
@@ -2185,7 +2176,7 @@
 <p>я выдумала Вас, как и отца,–</p>
 <p>самозабвенно, горестно и щедро.</p>
 <empty-line/>
-<p><emphasis> 90</emphasis></p>
+<p><emphasis>-</emphasis>  <emphasis>90</emphasis></p>
 <empty-line/>
 </section>
 <section>
@@ -2334,7 +2325,7 @@
 <p>Кой–где поймет, кой–где присочинит, </p>
 <p>возмездия уже не опасаясь...</p>
 <empty-line/>
-<p>                                                        <emphasis> 90</emphasis></p>
+<p>                                                        <emphasis>-</emphasis>  <emphasis>90</emphasis></p>
 <empty-line/>
 </section>
 <section>
@@ -2432,7 +2423,7 @@
 <p>не приживется. </p>
 <p>                                                  Встретимся на том,</p>
 <p>как говорится, наилучшем свете...</p>
-<p><emphasis><strong></strong>90 СПб</emphasis>	</p>
+<p><emphasis><strong>-</strong> 90 СПб</emphasis>	</p>
 </section>
 <section>
 <title>
@@ -2812,7 +2803,7 @@
 <p>вот все, что мне дано — себя услышать</p>
 <p>и снова начинать, переступив.</p>
 <empty-line/>
-<p> <emphasis>84</emphasis></p>
+<p> <emphasis>- 84</emphasis></p>
 </section>
 <section>
 <title>
