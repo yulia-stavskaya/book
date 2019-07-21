@@ -48,4 +48,6 @@
 введи меня в&nbsp;круг магических чисел,   
 чтоб мысль и&nbsp;боль не&nbsp;мешали мне  
 для жизни, но&nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;для смерти&nbsp;&mdash; вдвойне.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;для смерти&nbsp;&mdash; вдвойне.
+
+*'87*

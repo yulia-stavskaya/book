@@ -22,4 +22,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;и&nbsp;света нежного касанье,  
 где тихо прыгает мечтанье  
 по каплям августа&nbsp;&mdash;   
-&nbsp;&nbsp;&nbsp;&nbsp;в&nbsp;ручей&hellip;  
+&nbsp;&nbsp;&nbsp;&nbsp;в&nbsp;ручей&hellip;
+
+*'85*

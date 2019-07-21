@@ -90,4 +90,6 @@
 что мы&nbsp;ей пели единодушно,  
 что мы&nbsp;ей были послушны,  
 мы,   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Безъядые Кобры.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Безъядые Кобры.
+
+*Тарту, СПб '87*
