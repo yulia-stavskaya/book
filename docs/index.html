@@ -48,7 +48,21 @@
         previousText: 'назад',
         nextText: 'вперед',
         crossChapter: true
-      }
+      },
+      plugins: [
+    function(hook) {
+      var footer = [
+        '<hr/>',
+        '<footer>',
+        '<span><a href="https://github.com/yulia-stavskaya.github.io/">Юлия Ставская-Качугина</a> &copy;1996 - 2019.</span>', '&nbsp;&nbsp;<span>Proudly published with <a href="https://github.com/docsifyjs/docsify" target="_blank">docsify</a>.</span>',
+        '</footer>'
+      ].join('');
+
+      hook.afterEach(function(html) {
+        return html + footer;
+      });
+    }
+  ]
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
