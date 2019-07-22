@@ -24,4 +24,4 @@
 
 ### Скачать
 
-Скачать [книгу в *.fb2](/_media/yulia-stavskaya-book.fb2 ':ignore')
+Скачать [книгу в *.fb2](/book/_media/yulia-stavskaya-book.fb2 ':ignore')
